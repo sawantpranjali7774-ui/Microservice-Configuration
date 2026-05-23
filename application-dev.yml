@@ -1,6 +1,6 @@
 spring:
  application:
-   name: Vehicle-Service-Dev
+   name: VehicleService-Dev
 eureka:
   client:
     service-url:
